@@ -30,21 +30,6 @@ List<Map<String, dynamic>> itemData() => [
         "id": 2,
       },
       {
-        "name": "Aladdin",
-        "desc": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
-        "duration": "2j 8m",
-        "year": "2019",
-        "age": "13+",
-        "rate": "6.9",
-        "photo0": "assets/image3.jpg",
-        "photo1": "assets/image3.1.jpg",
-        "photo2": "assets/image3.2.jpg",
-        "photo3": "assets/image3.3.jpeg",
-        "photo4": "assets/image3.4.jpg",
-        "photo5": "assets/image3.5.jpg",
-        "id": 3,
-      },
-      {
         "name": "Avengers: Endgame",
         "desc": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
         "duration": "3j 1m",
@@ -57,7 +42,7 @@ List<Map<String, dynamic>> itemData() => [
         "photo3": "assets/image4.3.jpg",
         "photo4": "assets/image4.4.jpg",
         "photo5": "assets/image4.5.jpg",
-        "id": 4,
+        "id": 3,
       },
       {
         "name": "Alice in Borderland",
@@ -72,7 +57,7 @@ List<Map<String, dynamic>> itemData() => [
         "photo3": "assets/image5.3.jpg",
         "photo4": "assets/image5.4.jpg",
         "photo5": "assets/image5.5.jpg",
-        "id": 5,
+        "id": 4,
       },
       {
         "name": "The Batman",
@@ -87,6 +72,6 @@ List<Map<String, dynamic>> itemData() => [
         "photo3": "assets/image6.3.jpg",
         "photo4": "assets/image6.4.jpg",
         "photo5": "assets/image6.5.jpg",
-        "id": 6,
+        "id": 5,
       },
     ];
